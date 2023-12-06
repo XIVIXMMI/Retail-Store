@@ -1,7 +1,6 @@
 package com.omori.retailstore.controller;
 
 import com.omori.retailstore.model.Greeting;
-import jakarta.websocket.server.PathParam;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.concurrent.atomic.AtomicLong;
